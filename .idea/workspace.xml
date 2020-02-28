@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00999052-fcc1-410a-be4c-a0d961b53752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/LeaderNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/ReversingStringInSamePattern.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/SortSentence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Programs/LeaderNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Programs/ReversingStringInSamePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Com/Programs/SortSentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/PairsInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/PairsInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Com/Programs/PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/Programs/PairsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/ReversingEveryWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/ReversingEveryWord.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ReversingEveryWord">
-    <configuration name="CharacterOccurrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Programs.CharacterOccurrance" />
-      <module name="IntelliJ_Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Com.Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SortSentence">
     <configuration name="DuplicateElementsinArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Com.Programs.DuplicateElementsinArrayList" />
       <module name="IntelliJ_Projects" />
@@ -62,21 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAndSmallestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Programs.LargestAndSmallestValue" />
-      <module name="IntelliJ_Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Com.Programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PairsInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Programs.PairsInArray" />
+    <configuration name="LeaderNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Programs.LeaderNumbers" />
       <module name="IntelliJ_Projects" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +79,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReversingStringInSamePattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Programs.ReversingStringInSamePattern" />
+      <module name="IntelliJ_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Programs.SortSentence" />
+      <module name="IntelliJ_Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortSentence" />
+        <item itemvalue="Application.LeaderNumbers" />
+        <item itemvalue="Application.ReversingStringInSamePattern" />
         <item itemvalue="Application.ReversingEveryWord" />
         <item itemvalue="Application.DuplicateElementsinArrayList" />
-        <item itemvalue="Application.PairsInArray" />
-        <item itemvalue="Application.LargestAndSmallestValue" />
-        <item itemvalue="Application.CharacterOccurrance" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +133,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -140,45 +146,83 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582695243036" />
+    <state width="378" height="465" key="DebuggerActiveHint" timestamp="1582788388117">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="378" height="465" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1582788388117" />
     <state x="129" y="54" key="DiffContextDialog" timestamp="1582695240225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1582695240225" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1582718036317">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582718036317" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1582718036317">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582718036317" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1582718036317">
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1582811399242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582718036317" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1582718036317">
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582811399242" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582718036317" />
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1582702551856">
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582702551856" />
-    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1582702551855">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582702551855" />
-    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1582702551855">
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582702551855" />
-    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1582702551855">
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582702551855" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1582866479293">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582866479293" />
+    <state x="222" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582794467025">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="222" y="99" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1582794467025" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582644864803">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582644864803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Com/Programs/ReversingStringInSamePattern.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Com/Programs/ReversingStringInSamePattern.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Com/Programs/SortSentence.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Com/Programs/SortSentence.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
