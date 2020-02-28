@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00999052-fcc1-410a-be4c-a0d961b53752" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/LeaderNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/ReversingStringInSamePattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/SortSentence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Com/Programs/LeaderNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Com/Programs/ReversingStringInSamePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Com/Programs/SortSentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/ReversingEveryWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/ReversingEveryWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/SortSentence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/SortSentence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +33,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.SortSentence">
-    <configuration name="DuplicateElementsinArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Programs.DuplicateElementsinArrayList" />
+  <component name="RunManager" selected="Application.NoofPassengersInBus">
+    <configuration name="HighestAndLowestInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Programs.HighestAndLowestInString" />
       <module name="IntelliJ_Projects" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReversingEveryWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Programs.ReversingEveryWord" />
+    <configuration name="NoofPassengersInBus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Programs.NoofPassengersInBus" />
       <module name="IntelliJ_Projects" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoofPassengersInBus" />
+        <item itemvalue="Application.HighestAndLowestInString" />
         <item itemvalue="Application.SortSentence" />
         <item itemvalue="Application.LeaderNumbers" />
         <item itemvalue="Application.ReversingStringInSamePattern" />
-        <item itemvalue="Application.ReversingEveryWord" />
-        <item itemvalue="Application.DuplicateElementsinArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -154,22 +148,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1582695240225" />
-    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1582811399243">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1582881759491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
-    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1582811399243">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582881759491" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1582881759490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
-    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1582811399242">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582881759490" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1582881759490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582811399242" />
-    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1582811399243">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582881759490" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1582881759490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582811399243" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582881759490" />
     <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1582811399243">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -211,16 +205,6 @@
           <url>file://$PROJECT_DIR$/src/Com/Programs/ReversingStringInSamePattern.java</url>
           <line>46</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Com/Programs/SortSentence.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Com/Programs/SortSentence.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
