@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00999052-fcc1-410a-be4c-a0d961b53752" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/LeaderNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/LeaderNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/NoofPassengersInBus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IntelliJ_Projects/Com/Programs/NoofPassengersInBus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Com/Programs/LeaderNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/Programs/LeaderNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Com/Programs/LargestSequenceOfAllNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Com/Programs/LargestSequenceOfAllNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FrameworkBase" />
   </component>
-  <component name="RunManager" selected="Application.DeleteAfterNOccurrances">
+  <component name="RunManager" selected="Application.LargestSequenceOfAllNumbers">
     <configuration name="DeleteAfterNOccurrances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Com.Programs.DeleteAfterNOccurrances" />
       <module name="IntelliJ_Projects" />
@@ -50,8 +48,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighestAndLowestInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Com.Programs.HighestAndLowestInString" />
+    <configuration name="LargestSequenceOfAllNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Programs.LargestSequenceOfAllNumbers" />
       <module name="IntelliJ_Projects" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestSequenceOfAllNumbers" />
         <item itemvalue="Application.DeleteAfterNOccurrances" />
         <item itemvalue="Application.LeaderNumbers" />
         <item itemvalue="Application.StringReverseWithSplChars" />
         <item itemvalue="Application.NoofPassengersInBus" />
-        <item itemvalue="Application.HighestAndLowestInString" />
       </list>
     </recent_temporary>
   </component>
@@ -143,10 +141,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582695243036" />
-    <state width="378" height="465" key="DebuggerActiveHint" timestamp="1582788388117">
+    <state width="404" height="465" key="DebuggerActiveHint" timestamp="1583250014493">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="378" height="465" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1582788388117" />
+    <state width="404" height="465" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1583250014493" />
     <state x="129" y="54" key="DiffContextDialog" timestamp="1582695240225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,38 +153,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583238615728" />
-    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1583250177459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
-    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583250177459" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1583250177458">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
-    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1583243735280">
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583250177458" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1583250177458">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583243735280" />
-    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583250177458" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1583250177458">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583250177458" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1583250177459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
-    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583250177459" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1583250177459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
-    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1583250177459" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1583250177459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
-    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1583243735281">
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1583250177459" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1583250177459">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583243735281" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1583250177459" />
     <state x="348" y="62" key="NewModule_or_Project.wizard" timestamp="1583238611936">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -222,7 +220,22 @@
           <line>13</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Com/Programs/LargestSequenceOfAllNumbers.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Com/Programs/LargestSequenceOfAllNumbers.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="hmap.get(a[i])" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
