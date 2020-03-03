@@ -20,6 +20,9 @@ public class LeaderNumbers {
 
                 }
                 if (!(a[i]>a[j])){
+                   if(ar.contains(a[i])){
+                       ar.remove(ar.size()-1);
+                   }
                     break;
                 }
             }
@@ -30,7 +33,9 @@ public class LeaderNumbers {
     }
 
     public static void main(String[] args) {
-        int[] a = {14, 9, 11, 7, 8, 5, 3};
+        int[] a = {16, 17, 4, 3, 5, 2};
+        int[] a1 = {-36,-12,-7};
         Leader(a);
+        Leader(a1);
     }
 }
